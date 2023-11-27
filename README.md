@@ -1,3 +1,8 @@
+Aim: Makes Jupyter notebooks for teaching available from execution in browser on Github-Pages.
+
+Link: https://s-sauer.github.io/Jupyter-Lehre
+
+
 # JupyterLite Demo
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
