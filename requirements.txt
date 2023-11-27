@@ -30,6 +30,9 @@ jupyterlab-night
 # JupyterLab: Miami nights theme (optional)
 jupyterlab_miami_nights
 
+# JupyterLab: Notebook interface, cf. https://jupyterlite.readthedocs.io/en/latest/howto/configure/interface_switcher.html
+notebook
+
 # Python: ipywidget library for Jupyter notebooks (optional)
 ipywidgets>=8.1.1,<9
 # Python: ipyevents library for Jupyter notebooks (optional)
